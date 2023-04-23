@@ -20,9 +20,7 @@ import java.util.List;
 
 import static android.content.ContentValues.TAG;
 
-/**
- * Created by mohamed on 9/6/17.
- */
+
 
 public class QueryUtils {
 

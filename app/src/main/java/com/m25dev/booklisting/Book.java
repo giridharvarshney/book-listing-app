@@ -1,8 +1,6 @@
 package com.m25dev.booklisting;
 
-/**
- * Created by mohamed on 9/6/17.
- */
+
 
 public class Book {
 

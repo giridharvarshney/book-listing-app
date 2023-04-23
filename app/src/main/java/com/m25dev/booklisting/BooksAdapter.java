@@ -15,9 +15,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by mohamed on 9/6/17.
- */
+
 
 public class BooksAdapter extends ArrayAdapter<Book> {
 
